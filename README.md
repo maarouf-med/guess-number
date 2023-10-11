@@ -1,3 +1,3 @@
 # guess-number
 this is a simple game in javascript you guess number and show you your score and highscore ...
-h1 i update readmy file
+<h1></h1> i update readmy file</h1>
