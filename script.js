@@ -17,7 +17,7 @@ const displayScore = function (score) {
 const displayNumber = function (number) {
   document.querySelector('.score').textContent = number;
 };
-
+// add event click
 check.addEventListener('click', () => {
   const guess = Number(document.querySelector('.guess').value);
   if (!guess) {
